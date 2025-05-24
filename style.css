@@ -1,18 +1,11 @@
-/* style.css */
 :root {
     --dark: #3a2c2e;
-    /* Rich book-cover brown */
     --dark-alt: #4a3a3c;
-    /* Slightly lighter brown */
     --brown: #7a5c58;
-    /* Muted wood tone */
     --beige: #f5f0e6;
-    /* Parchment background */
     --white: #ffffff;
     --accent: #a78a7f;
-    /* Warm bronze accent */
     --text-dark: #2e2e2e;
-    /* Soft black for text */
 }
 
 * {
@@ -30,9 +23,6 @@ body {
     flex-direction: column;
     min-height: 100vh;
 }
-
-/* Header - Compact and Elegant */
-/* Header Styling */
 header {
     background-color: var(--dark);
     color: var(--white);
