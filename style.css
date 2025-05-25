@@ -559,19 +559,7 @@ footer {
     border-radius: 8px;
 }
 /* About us*/
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-body {
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #fff;
-  line-height: 1.6;
-}
-
-/* Banner */
 .banner {
   background: url('download.jpg') no-repeat center center/cover;
   height: 300px;
